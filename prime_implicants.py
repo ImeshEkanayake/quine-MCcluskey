@@ -1,4 +1,3 @@
-@@ -0,0 +1,84 @@
 num_of_var=int(input("Enter the number of variables ="))
 num_of_min_terms=int(input("Enter the number of minterms ="))
 #-------------------initializing------------
